@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AndresArias28</h1>
 <h3 align="center">A Enthusiastic Backend Developer</h3>
 
-- 🔭 I’m currently studying Development software in SENA**
+- 🔭 I’m currently studying Development software at SENA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/andres-arias-naranjo/**
 
